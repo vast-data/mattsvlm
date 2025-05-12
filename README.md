@@ -22,8 +22,6 @@ This system implements a novel approach to video analysis by leveraging Vision L
 
 ![Output](media/summary.png)
 
-image.png
-
 </div>
 
 ## Features ⚡️
