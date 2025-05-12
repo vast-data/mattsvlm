@@ -6,6 +6,12 @@
 
 A standalone Python module for processing video clips up to 1 minute in length using Vision Language Models. This was a POC idea VAST Data has allowed me to share with the world. 🌎
 
+<div align="center">
+
+![Flow](media/flow.png)
+
+</div>
+
 ## Overview
 
 This system implements a novel approach to video analysis by leveraging Vision Language Models (VLMs) through the Ollama framework. It performs temporal decomposition of video content through frame extraction, processes these frames using a multimodal Large Language Model (LLM), and generates semantically meaningful analysis based on user-defined prompts. This represents a significant advancement in video understanding, as it enables temporal alignment and contextual comprehension of video sequences using standard multimodal LLM architectures.
@@ -15,6 +21,8 @@ This system implements a novel approach to video analysis by leveraging Vision L
 ![Picture](media/clip.png)
 
 ![Output](media/summary.png)
+
+image.png
 
 </div>
 
